@@ -1,7 +1,7 @@
 {
-  "name": "inquirer-test",
+  "name": "inquirer-bmi-calculator",
   "version": "1.0.0",
-  "description": "This is a test repository to learn how to use inquirer",
+  "description": "This is a repository to calculate the BMI based on the weight and the height, using inquirer CLI tool.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
